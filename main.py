@@ -14,8 +14,8 @@ time.sleep(2)
 if __name__ == "__main__":
     while True:
         notification.notify(
-            title="Time to Drink a Glass of Water!",
-            message="Its been an Hour you haven't drunk a glass of Water. Consider drinking a glass of water.",
+            title="Hydrate yourself on time!",
+            message="1 hour is too much , you haven't drunk water. Drink fast .",
             app_icon="icon.ico",
             timeout=10
         )
