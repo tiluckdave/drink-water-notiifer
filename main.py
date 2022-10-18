@@ -15,7 +15,7 @@ if __name__ == "__main__":
     while True:
         notification.notify(
             title="Hydrate yourself on time!",
-            message="1 hour is too much , you haven't drunk water. Drink fast .",
+            message="1 hour is too much , you haven't drunk water. Drink water immidiately .",
             app_icon="icon.ico",
             timeout=10
         )
